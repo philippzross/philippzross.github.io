@@ -2,7 +2,6 @@
 title: "Profanity in Early Irish" 
 date: 1990-06-16
 lastmod: 2024-07-12
-tags: ["Irish","philology","profanity","Celtic languages","language modernization"]
 author: ["Dieter Vogelsang","Moritz-Maria von Igelfeld"]
 description: "This undergraduate course discusses profanity in Early Irish." 
 summary: "This undergraduate course discusses profanity in Early Irish, and relates such profanity to profanity in modern English." 
