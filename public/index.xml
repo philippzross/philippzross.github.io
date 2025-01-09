@@ -2,85 +2,83 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Phil Ross, Ph.D.</title>
-    <link>https://www.philippzross.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Phil Ross, Ph.D.</description>
     <generator>Hugo -- 0.136.5</generator>
     <language>en</language>
     <lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.philippzross.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research</title>
-      <link>https://www.philippzross.com/research/</link>
+      <link>http://localhost:1313/research/</link>
       <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.philippzross.com/research/</guid>
+      <guid>http://localhost:1313/research/</guid>
       <description>&lt;p&gt;&lt;em&gt;Last updated Sat, Jan 4 2024&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;cytokine-engineering-in-the-mendoza-labhttpsvoicesuchicagoeduthemendozagroup&#34;&gt;Cytokine engineering in the &lt;a href=&#34;https://voices.uchicago.edu/themendozagroup/&#34; target=&#34;_blank&#34;&gt;Mendoza Lab&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Coming soon!&lt;/p&gt;
-&lt;h2 id=&#34;molecular-immunology-in-the-adams-labhttpejadamslabbsduchicagoedu&#34;&gt;Molecular immunology in the &lt;a href=&#34;http://ejadamslab.bsd.uchicago.edu/&#34; target=&#34;_blank&#34;&gt;Adams Lab&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;During my Ph.D. in the Adams Lab, I worked mainly on two proteins that play important roles in the innate and adaptive immune response: the &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21868630/&#34; target=&#34;_blank&#34;&gt;archaic HLA-B*73:01&lt;/a&gt; and the non-classical &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28636952/&#34; target=&#34;_blank&#34;&gt;HLA-F&lt;/a&gt;. Both molecules serve as ligands for the germline-encoded, polymorphic &lt;a href=&#34;https://www.annualreviews.org/doi/abs/10.1146/annurev-immunol-042617-053149&#34; target=&#34;_blank&#34;&gt;Killer-immunoglobulin-like receptors (KIRs)&lt;/a&gt;, but it was unclear exactly how.&lt;/p&gt;
-&lt;p&gt;In the case of HLA-B*73:01, it was clear that similar to other class I molecules, HLA-B*73:01 presents short peptides to T and NK cell receptors that may either allow or prevent receptor recognition. The real question was whether HLA-B*73:01 was unique in any way relative to other class I alleles at the molecular level.&lt;/p&gt;</description>
+&lt;p&gt;This page is currently being updated to more effectively represent everything that I&amp;rsquo;ve worked on over the years. Please bear with me while I finish it up!&lt;/p&gt;
+&lt;h2 id=&#34;protein-engineering-at-u-chicago-molecular-engineeringhttpspmeuchicagoedu&#34;&gt;Protein engineering at &lt;a href=&#34;https://pme.uchicago.edu/&#34; target=&#34;_blank&#34;&gt;U. Chicago Molecular Engineering&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;As a postdoctoral scientist in the &lt;a href=&#34;https://pme.uchicago.edu/faculty/juan-mendoza&#34; target=&#34;_blank&#34;&gt;Mendoza Lab&lt;/a&gt;, I use display-based libraries to engineer cytokines and their receptors to manipulate their signaling properties with the ultimate goal of designing next generation protein therapeutics.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Location</title>
-      <link>https://www.philippzross.com/location/</link>
+      <link>http://localhost:1313/location/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.philippzross.com/location/</guid>
+      <guid>http://localhost:1313/location/</guid>
       <description>Professor Dr von Igelfeld&amp;#39;s mailing and office addresses at the Institute of Romance Philology.</description>
     </item>
     <item>
       <title>Office Hours</title>
-      <link>https://www.philippzross.com/officehours/</link>
+      <link>http://localhost:1313/officehours/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.philippzross.com/officehours/</guid>
+      <guid>http://localhost:1313/officehours/</guid>
       <description>Schedule and location for Professor Dr von Igelfeld&amp;#39;s office hours.</description>
     </item>
     <item>
       <title>Your Inner Hedgehog</title>
-      <link>https://www.philippzross.com/papers/paper3/</link>
+      <link>http://localhost:1313/papers/paper3/</link>
       <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.philippzross.com/papers/paper3/</guid>
+      <guid>http://localhost:1313/papers/paper3/</guid>
       <description>This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021.</description>
     </item>
     <item>
       <title>List of Irregular Verbs Across Romance Languages</title>
-      <link>https://www.philippzross.com/data/data1/</link>
+      <link>http://localhost:1313/data/data1/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.philippzross.com/data/data1/</guid>
+      <guid>http://localhost:1313/data/data1/</guid>
       <description>This dataset contains all irregular verbs in known Romance languages.</description>
     </item>
     <item>
       <title>Unusual Uses For Olive Oil</title>
-      <link>https://www.philippzross.com/papers/paper1/</link>
+      <link>http://localhost:1313/papers/paper1/</link>
       <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.philippzross.com/papers/paper1/</guid>
+      <guid>http://localhost:1313/papers/paper1/</guid>
       <description>This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013.</description>
     </item>
     <item>
       <title>The Finer Points of Sausage Dogs</title>
-      <link>https://www.philippzross.com/papers/paper2/</link>
+      <link>http://localhost:1313/papers/paper2/</link>
       <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
-      <guid>https://www.philippzross.com/papers/paper2/</guid>
+      <guid>http://localhost:1313/papers/paper2/</guid>
       <description>This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004.</description>
     </item>
     <item>
       <title>Lectures at the Villa of Reduced Circumstances</title>
-      <link>https://www.philippzross.com/courses/course1/</link>
+      <link>http://localhost:1313/courses/course1/</link>
       <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
-      <guid>https://www.philippzross.com/courses/course1/</guid>
+      <guid>http://localhost:1313/courses/course1/</guid>
       <description>This graduate course presents classical results in Romance philology.</description>
     </item>
     <item>
       <title>Portugese Irregular Verbs</title>
-      <link>https://www.philippzross.com/books/book1/</link>
+      <link>http://localhost:1313/books/book1/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>https://www.philippzross.com/books/book1/</guid>
+      <guid>http://localhost:1313/books/book1/</guid>
       <description>This book discusses Portugese irregular verbs in great details.</description>
     </item>
     <item>
       <title>Profanity in Early Irish</title>
-      <link>https://www.philippzross.com/courses/course2/</link>
+      <link>http://localhost:1313/courses/course2/</link>
       <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>https://www.philippzross.com/courses/course2/</guid>
+      <guid>http://localhost:1313/courses/course2/</guid>
       <description>This undergraduate course discusses profanity in Early Irish.</description>
     </item>
   </channel>

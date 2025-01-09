@@ -1,25 +1,23 @@
 ---
 title: "Research"
 date: 2025-01-04
-hidemeta: true
+meta: true
 description: ""
 ---
 
 _Last updated Sat, Jan 4 2024_
 
-## Cytokine engineering in the [Mendoza Lab](https://voices.uchicago.edu/themendozagroup/)
-Coming soon!
+This page is currently being updated to more effectively represent everything that I've worked on over the years. Please bear with me while I finish it up!
 
-## Molecular immunology in the [Adams Lab](http://ejadamslab.bsd.uchicago.edu/)
-During my Ph.D. in the Adams Lab, I worked mainly on two proteins that play important roles in the innate and adaptive immune response: the [archaic HLA-B*73:01](https://pubmed.ncbi.nlm.nih.gov/21868630/) and the non-classical [HLA-F](https://pubmed.ncbi.nlm.nih.gov/28636952/). Both molecules serve as ligands for the germline-encoded, polymorphic [Killer-immunoglobulin-like receptors (KIRs)](https://www.annualreviews.org/doi/abs/10.1146/annurev-immunol-042617-053149), but it was unclear exactly how.
+## Protein engineering at [U. Chicago Molecular Engineering](https://pme.uchicago.edu/)
+As a postdoctoral scientist in the [Mendoza Lab](https://pme.uchicago.edu/faculty/juan-mendoza), I use display-based libraries to engineer cytokines and their receptors to manipulate their signaling properties with the ultimate goal of designing next generation protein therapeutics. 
 
-In the case of HLA-B\*73:01, it was clear that similar to other class I molecules, HLA-B\*73:01 presents short peptides to T and NK cell receptors that may either allow or prevent receptor recognition. The real question was whether HLA-B\*73:01 was unique in any way relative to other class I alleles at the molecular level.
+## Structural immunology at [U. Chicago Biology](https://biologicalsciences.uchicago.edu/)
+As a graduate student in the [Adams Lab](https://ejadamslab.bsd.uchicago.edu/) I worked mainly on two proteins that play important roles in the innate and adaptive immune response: the [archaic HLA-B*73:01](https://pubmed.ncbi.nlm.nih.gov/21868630/) and the non-classical [HLA-F](https://pubmed.ncbi.nlm.nih.gov/28636952/). Both molecules serve as ligands for the germline-encoded, polymorphic [Killer-immunoglobulin-like receptors (KIRs)](https://www.annualreviews.org/doi/abs/10.1146/annurev-immunol-042617-053149), but how this occurs and the consequences thereof were unclear when I began my work.
 
-A preprint for this project is currently available [here](https://www.biorxiv.org/content/10.1101/2024.11.25.625330v1).
+In the case of HLA-B\*73:01, it was known that similar to other class I molecules, HLA-B\*73:01 presents "short" peptides on the surface of cells. However, what I was interested was in what ways HLA-B\*73:01 was different to other class I molecules. To learn more about HLA-B\*73:01, check out our preprint [here](https://www.biorxiv.org/content/10.1101/2024.11.25.625330v1), while the manuscript is under review.
 
-In the case of HLA-F, it was not clear in which conformation HLA-F actually carries out its functions. Previous studies had shown that unlike other class I molecules, HLA-F did not need to form a heterodimer with β2M in order to be expressed at the cell-surface. But more recently, the Adams Lab showed that HLA-F could also present peptides similar to all other class I molecules in humans. Thus the questions for this project were more fundamental: which forms of HLA-F are functional and what regulates the expression of these different forms?
-
-A preprint on HLA-F is in preparation as well.
+In the case of HLA-F, the questions were more fundamental. It was thought that unlike other class I molecules, HLA-F did not need to form a heterodimer with β2M in order to be expressed on the surface of cells. Charlie Dulberger, a former mentor of mine in the Adams lab, showed that HLA-F could also present peptides similar to all other class I molecules. So then which is the "true" form and what regulates the expression of these different forms? A preprint of my work on HLA-F is in preparation as well.
 
 For the most thorough overview of my graduate work, feel free to check out [my thesis](https://knowledge.uchicago.edu/record/5721?v=pdf).
 
