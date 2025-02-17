@@ -1,0 +1,5 @@
+old
+.DS_Store
+.hugo_build.lock
+.Rproj.user
+.Rhistory

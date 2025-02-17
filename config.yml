@@ -47,7 +47,7 @@ params:
     profileMode:
           enabled: true
           title: Phil Ross, Ph.D.
-          subtitle: "I am a postdoctoral scientist with HHMI and The Juan Mendoza Lab at the University of Chicago"
+          subtitle: "I am a postdoctoral scientist in the Juan Mendoza Lab at the University of Chicago and with HHMI"
           imageUrl: "D5-original.png"
           imageWidth: 160
           imageHeight: 160
