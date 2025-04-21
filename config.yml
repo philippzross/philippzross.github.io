@@ -80,7 +80,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Phil Ross"
-      icon: favicon.ico
+      icon: picture.jpeg
       iconHeight: 18
 
 markup:
